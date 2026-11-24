@@ -4,6 +4,14 @@ A Home Assistant app (add-on) with a web dashboard that scans your media folders
 
 [![Add this repository to your Home Assistant.](https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg)](https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A%2F%2Fgithub.com%2Ftescophil%2Ftranscoder-pipeline)
 
+## Screenshots
+
+The dashboard in the dark theme, and in the light theme (Settings can also make it follow Home Assistant's theme):
+
+![Transcoder Pipeline dashboard, dark theme](docs/screenshots/dashboard-dark.png)
+
+![Transcoder Pipeline dashboard, light theme](docs/screenshots/dashboard-light.png)
+
 ## Install
 
 1. In Home Assistant go to **Settings > Apps > Install app** (older releases: **Add-ons > Add-on store**).
